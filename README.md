@@ -1,4 +1,4 @@
-![image](./img/sketch-vs-code.png)
+![image](./sketch-vs-code.png)
 
 ### Hi there 👋
 
