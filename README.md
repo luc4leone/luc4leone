@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- How to reach me: `luc4leone@gmail.com`
+How to reach me: `luc4leone@gmail.com`
 
 
 
